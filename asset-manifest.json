@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Buscador-Noticias/static/css/main.eb8eb502.chunk.css",
-    "main.js": "/Buscador-Noticias/static/js/main.f315d30e.chunk.js",
-    "main.js.map": "/Buscador-Noticias/static/js/main.f315d30e.chunk.js.map",
-    "runtime-main.js": "/Buscador-Noticias/static/js/runtime-main.baeacd56.js",
-    "runtime-main.js.map": "/Buscador-Noticias/static/js/runtime-main.baeacd56.js.map",
-    "static/js/2.f36752ae.chunk.js": "/Buscador-Noticias/static/js/2.f36752ae.chunk.js",
-    "static/js/2.f36752ae.chunk.js.map": "/Buscador-Noticias/static/js/2.f36752ae.chunk.js.map",
-    "index.html": "/Buscador-Noticias/index.html",
-    "precache-manifest.61136f8547d490b4a8e9a0ab3d45e1cd.js": "/Buscador-Noticias/precache-manifest.61136f8547d490b4a8e9a0ab3d45e1cd.js",
-    "service-worker.js": "/Buscador-Noticias/service-worker.js",
-    "static/css/main.eb8eb502.chunk.css.map": "/Buscador-Noticias/static/css/main.eb8eb502.chunk.css.map",
-    "static/js/2.f36752ae.chunk.js.LICENSE.txt": "/Buscador-Noticias/static/js/2.f36752ae.chunk.js.LICENSE.txt"
+    "main.css": "/BuscadorNoticias/static/css/main.eb8eb502.chunk.css",
+    "main.js": "/BuscadorNoticias/static/js/main.af9f3b93.chunk.js",
+    "main.js.map": "/BuscadorNoticias/static/js/main.af9f3b93.chunk.js.map",
+    "runtime-main.js": "/BuscadorNoticias/static/js/runtime-main.d6ff23c2.js",
+    "runtime-main.js.map": "/BuscadorNoticias/static/js/runtime-main.d6ff23c2.js.map",
+    "static/js/2.f36752ae.chunk.js": "/BuscadorNoticias/static/js/2.f36752ae.chunk.js",
+    "static/js/2.f36752ae.chunk.js.map": "/BuscadorNoticias/static/js/2.f36752ae.chunk.js.map",
+    "index.html": "/BuscadorNoticias/index.html",
+    "precache-manifest.43cc4327e79fd1153edc1cb166d50c3e.js": "/BuscadorNoticias/precache-manifest.43cc4327e79fd1153edc1cb166d50c3e.js",
+    "service-worker.js": "/BuscadorNoticias/service-worker.js",
+    "static/css/main.eb8eb502.chunk.css.map": "/BuscadorNoticias/static/css/main.eb8eb502.chunk.css.map",
+    "static/js/2.f36752ae.chunk.js.LICENSE.txt": "/BuscadorNoticias/static/js/2.f36752ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.baeacd56.js",
+    "static/js/runtime-main.d6ff23c2.js",
     "static/js/2.f36752ae.chunk.js",
     "static/css/main.eb8eb502.chunk.css",
-    "static/js/main.f315d30e.chunk.js"
+    "static/js/main.af9f3b93.chunk.js"
   ]
 }
