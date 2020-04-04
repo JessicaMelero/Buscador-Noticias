@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/BuscadorNoticias/static/css/main.eb8eb502.chunk.css",
-    "main.js": "/BuscadorNoticias/static/js/main.af9f3b93.chunk.js",
-    "main.js.map": "/BuscadorNoticias/static/js/main.af9f3b93.chunk.js.map",
-    "runtime-main.js": "/BuscadorNoticias/static/js/runtime-main.d6ff23c2.js",
-    "runtime-main.js.map": "/BuscadorNoticias/static/js/runtime-main.d6ff23c2.js.map",
-    "static/js/2.f36752ae.chunk.js": "/BuscadorNoticias/static/js/2.f36752ae.chunk.js",
-    "static/js/2.f36752ae.chunk.js.map": "/BuscadorNoticias/static/js/2.f36752ae.chunk.js.map",
-    "index.html": "/BuscadorNoticias/index.html",
-    "precache-manifest.43cc4327e79fd1153edc1cb166d50c3e.js": "/BuscadorNoticias/precache-manifest.43cc4327e79fd1153edc1cb166d50c3e.js",
-    "service-worker.js": "/BuscadorNoticias/service-worker.js",
-    "static/css/main.eb8eb502.chunk.css.map": "/BuscadorNoticias/static/css/main.eb8eb502.chunk.css.map",
-    "static/js/2.f36752ae.chunk.js.LICENSE.txt": "/BuscadorNoticias/static/js/2.f36752ae.chunk.js.LICENSE.txt"
+    "main.css": "/JessicaMelero/BuscadorNoticias/static/css/main.eb8eb502.chunk.css",
+    "main.js": "/JessicaMelero/BuscadorNoticias/static/js/main.602ec703.chunk.js",
+    "main.js.map": "/JessicaMelero/BuscadorNoticias/static/js/main.602ec703.chunk.js.map",
+    "runtime-main.js": "/JessicaMelero/BuscadorNoticias/static/js/runtime-main.85dd2e23.js",
+    "runtime-main.js.map": "/JessicaMelero/BuscadorNoticias/static/js/runtime-main.85dd2e23.js.map",
+    "static/js/2.f36752ae.chunk.js": "/JessicaMelero/BuscadorNoticias/static/js/2.f36752ae.chunk.js",
+    "static/js/2.f36752ae.chunk.js.map": "/JessicaMelero/BuscadorNoticias/static/js/2.f36752ae.chunk.js.map",
+    "index.html": "/JessicaMelero/BuscadorNoticias/index.html",
+    "precache-manifest.6fd60070727f07ee10ec78de9c6a6e6d.js": "/JessicaMelero/BuscadorNoticias/precache-manifest.6fd60070727f07ee10ec78de9c6a6e6d.js",
+    "service-worker.js": "/JessicaMelero/BuscadorNoticias/service-worker.js",
+    "static/css/main.eb8eb502.chunk.css.map": "/JessicaMelero/BuscadorNoticias/static/css/main.eb8eb502.chunk.css.map",
+    "static/js/2.f36752ae.chunk.js.LICENSE.txt": "/JessicaMelero/BuscadorNoticias/static/js/2.f36752ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6ff23c2.js",
+    "static/js/runtime-main.85dd2e23.js",
     "static/js/2.f36752ae.chunk.js",
     "static/css/main.eb8eb502.chunk.css",
-    "static/js/main.af9f3b93.chunk.js"
+    "static/js/main.602ec703.chunk.js"
   ]
 }
