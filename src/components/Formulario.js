@@ -19,7 +19,7 @@ const Formulario = ({ guardarCategoria }) => {
 
     // submit al form, pasar categoria a app.js
     const buscarNoticias = e => {
-        e.preventeDefault();
+        e.preventDefault();
 
         guardarCategoria(categoria);
     }
